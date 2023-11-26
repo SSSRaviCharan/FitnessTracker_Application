@@ -68,10 +68,10 @@ Open two separate command line interfaces or terminal windows.
 
 ### Access the Application
 
-1. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the FitSync application.
+Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the FitSync application.
 
 ### Account Creation
 
-- Create a new account by signing up or use the following credentials:
+Create a new account by signing up or use the following credentials:
   - Email: ram.7844@proton.me
   - Password: password
