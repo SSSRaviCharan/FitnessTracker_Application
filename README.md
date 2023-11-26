@@ -45,3 +45,33 @@ The FitSync Web Application is a comprehensive platform designed to help users m
   - Connect with us for support and feedback.
 
 ![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/cd481041-b009-42d4-bf49-5d18bea31926)
+
+## Getting Started
+
+### Download the Repository
+Clone or download the repository to your local machine.
+
+### Open Two Command Line Interfaces (CLI)
+Open two separate command line interfaces or terminal windows.
+
+### Frontend Setup
+
+1. In one CLI, navigate to the "fitsync" directory using the `cd fitsync` command.
+2. Run `npm install` to install the necessary dependencies.
+3. Execute `npm start` to launch the frontend application.
+
+### Backend Setup
+
+1. In the second CLI, navigate to the "backend" directory using the `cd backend` command.
+2. Run `npm install` to install the required backend dependencies.
+3. Start the backend server by running `npm start`.
+
+### Access the Application
+
+1. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the FitSync application.
+
+### Account Creation
+
+- Create a new account by signing up or use the following credentials:
+  - Email: ram.7844@proton.me
+  - Password: password
