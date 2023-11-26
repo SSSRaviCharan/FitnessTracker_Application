@@ -56,7 +56,7 @@ Open two separate command line interfaces or terminal windows.
 
 ### Frontend Setup
 
-1. In one CLI, navigate to the "fitsync" directory using the `cd fitsync` command.
+1. In one CLI, navigate to the "fit-sync" directory using the `cd fit-sync` command.
 2. Run `npm install` to install the necessary dependencies.
 3. Execute `npm start` to launch the frontend application.
 
