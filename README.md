@@ -20,13 +20,15 @@ The FitSync Web Application is a comprehensive platform designed to help users m
 
 ![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/d6423d93-9d21-4bf7-8720-e3214578b7af)
 
+
+
 - **Workout Page:**
   - Log exercises and track calorie expenditure.
 
 ![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/5470068c-2fa3-423f-ad06-69562648549a)
 
 - **Fitness Calculators:**
-  - Body Fat, Ideal Weight, and BMI calculators.
+  - BMI, Body Fat, and Ideal Weight calculators.
 
 ![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/f93a6580-578e-4e7c-b0a4-5f70e2a556d7)
 
@@ -37,5 +39,9 @@ The FitSync Web Application is a comprehensive platform designed to help users m
 - **User Profile:**
   - Easily update and manage user details.
 
+![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/ce41ab50-1d24-4b67-834b-3912252e76f2)
+
 - **Contact Page:**
   - Connect with us for support and feedback.
+
+![image](https://github.com/SSSRaviCharan/FitnessTracker_Application/assets/86793390/cd481041-b009-42d4-bf49-5d18bea31926)
