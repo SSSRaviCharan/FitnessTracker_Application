@@ -6,6 +6,13 @@
 
 The FitSync Web Application is a comprehensive platform designed to help users monitor and manage their fitness goals. From tracking calorie intake and expenditure to providing insightful charts and calculators, this application is your go-to companion on your health and wellness journey.
 
+### Account
+
+Create a new account by signing up or use the following credentials:
+  - Email: ram.7844@proton.me
+  - Password: password
+
+
 ## Features
 
 - **Dashboard:**
@@ -69,9 +76,3 @@ Open two separate command line interfaces or terminal windows.
 ### Access the Application
 
 Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the FitSync application.
-
-### Account Creation
-
-Create a new account by signing up or use the following credentials:
-  - Email: ram.7844@proton.me
-  - Password: password
